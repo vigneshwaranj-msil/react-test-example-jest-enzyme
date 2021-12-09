@@ -1,0 +1,13 @@
+/*
+    File name - SearchBox.css
+    Created on - Wednesday 08 December 2021 04:07:55 PM
+    Last Modified On- Wednesday 08 December 2021 04:08:24 PM
+    Author -  Vigneshwaran Jheyaraman (VickySuraj)
+*/
+
+.search-box {
+    display:flex;
+    width:100%;
+    height:100%;
+    flex-direction:column;
+}

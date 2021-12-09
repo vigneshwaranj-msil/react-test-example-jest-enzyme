@@ -1,0 +1,11 @@
+/*
+    File name - Toggler.css
+    Created on - Wednesday 08 December 2021 02:42:22 PM
+    Last Modified On- Wednesday 08 December 2021 02:42:38 PM
+    Author -  Vigneshwaran Jheyaraman (VickySuraj)
+*/
+
+.toggler{
+    display: flex;
+    justify-content: center
+}
